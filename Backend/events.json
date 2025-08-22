@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1724001001",
+    "name": "Zygon 2025 - Cultural Fest Opening Ceremony",
+    "date": "2025-09-15",
+    "description": "Grand opening of the annual cultural festival featuring traditional dance performances, music concerts, and celebrity guest appearances.",
+    "category": "Cultural",
+    "organizer": "Cultural Committee",
+    "venue": "Main Auditorium",
+    "createdAt": "2025-08-22T10:00:00.000Z"
+  },
+  {
+    "id": "1724001002",
+    "name": "Zygon - Battle of Bands",
+    "date": "2025-09-16",
+    "description": "Inter-college rock band competition with live performances, judged by industry professionals. Winner gets recording studio time.",
+    "category": "Cultural",
+    "organizer": "Cultural Committee",
+    "venue": "Open Air Theatre",
+    "createdAt": "2025-08-22T10:05:00.000Z"
+  },
+  {
+    "id": "1724001003",
+    "name": "Zygon - Fashion Show Extravaganza",
+    "date": "2025-09-17",
+    "description": "Theme-based fashion show showcasing student creativity in costume design and modeling with professional choreography.",
+    "category": "Cultural",
+    "organizer": "Cultural Committee",
+    "venue": "Central Lawn",
+    "createdAt": "2025-08-22T10:10:00.000Z"
+  },
+  {
+    "id": "1724001004",
+    "name": "Nirman 2025 - Technical Fest Inauguration",
+    "date": "2025-10-05",
+    "description": "Launch of the premier technical festival featuring keynote speeches from tech industry leaders and innovation showcases.",
+    "category": "Technical",
+    "organizer": "Silicon Student Council",
+    "venue": "Convention Hall",
+    "createdAt": "2025-08-22T10:15:00.000Z"
+  },
+  {
+    "id": "1724001005",
+    "name": "Nirman - Code Marathon",
+    "date": "2025-10-06",
+    "description": "48-hour coding competition across multiple programming languages with real-world problem statements and industry mentors.",
+    "category": "Technical",
+    "organizer": "Silicon Student Council",
+    "venue": "Computer Lab Block A",
+    "createdAt": "2025-08-22T10:20:00.000Z"
+  },
+  {
+    "id": "1724001006",
+    "name": "Nirman - AI/ML Workshop Series",
+    "date": "2025-10-07",
+    "description": "Hands-on workshop on Machine Learning fundamentals, neural networks, and practical AI applications in industry.",
+    "category": "Technical",
+    "organizer": "Silicon Student Council",
+    "venue": "Seminar Hall 1",
+    "createdAt": "2025-08-22T10:25:00.000Z"
+  },
+  {
+    "id": "1724001007",
+    "name": "Innovation Ideathon 2025",
+    "date": "2025-10-12",
+    "description": "24-hour ideation competition focusing on sustainable solutions for real-world problems with startup incubation opportunities.",
+    "category": "Innovation",
+    "organizer": "Silicon Innovation Promotion Cell",
+    "venue": "Innovation Hub",
+    "createdAt": "2025-08-22T10:30:00.000Z"
+  },
+  {
+    "id": "1724001008",
+    "name": "Silicon Hackathon - FinTech Edition",
+    "date": "2025-10-15",
+    "description": "36-hour hackathon focused on financial technology solutions with mentorship from fintech industry experts and VCs.",
+    "category": "Technical",
+    "organizer": "Silicon Innovation Promotion Cell",
+    "venue": "Tech Park Building",
+    "createdAt": "2025-08-22T10:35:00.000Z"
+  },
+  {
+    "id": "1724001009",
+    "name": "Robo-Race Championship",
+    "date": "2025-10-18",
+    "description": "Autonomous robot racing competition with obstacle courses, line following, and manual control categories for different skill levels.",
+    "category": "Technical",
+    "organizer": "Silicon Innovation Promotion Cell",
+    "venue": "Engineering Workshop",
+    "createdAt": "2025-08-22T10:40:00.000Z"
+  },
+  {
+    "id": "1724001010",
+    "name": "Drone Building Workshop",
+    "date": "2025-10-20",
+    "description": "Build and program your own drone from scratch. Learn about aerodynamics, flight controllers, and autonomous navigation.",
+    "category": "Technical",
+    "organizer": "Silicon Innovation Promotion Cell",
+    "venue": "Robotics Lab",
+    "createdAt": "2025-08-22T10:45:00.000Z"
+  },
+  {
+    "id": "1724001011",
+    "name": "Meta Literature Fest - Grand Opening",
+    "date": "2025-11-08",
+    "description": "Inaugural ceremony of the literature festival celebrating creative writing, poetry, and academic discourse with renowned authors.",
+    "category": "Literature",
+    "organizer": "Meta Academic Cell",
+    "venue": "Library Auditorium",
+    "createdAt": "2025-08-22T10:50:00.000Z"
+  },
+  {
+    "id": "1724001012",
+    "name": "Inter-College Debate Championship",
+    "date": "2025-11-09",
+    "description": "Oxford-style debate competition on contemporary issues with teams from top colleges across the region.",
+    "category": "Literature",
+    "organizer": "Meta Academic Cell",
+    "venue": "Debate Hall",
+    "createdAt": "2025-08-22T10:55:00.000Z"
+  },
+  {
+    "id": "1724001013",
+    "name": "Model United Nations (MUN) Conference",
+    "date": "2025-11-10",
+    "description": "3-day MUN conference simulating UN committees discussing global issues like climate change, international security, and human rights.",
+    "category": "Literature",
+    "organizer": "Meta Academic Cell",
+    "venue": "Conference Center",
+    "createdAt": "2025-08-22T11:00:00.000Z"
+  },
+  {
+    "id": "1724001014",
+    "name": "Poetry Slam Competition",
+    "date": "2025-11-11",
+    "description": "Open mic poetry competition featuring original compositions in multiple languages with live audience voting.",
+    "category": "Literature",
+    "organizer": "Meta Academic Cell",
+    "venue": "Amphitheater",
+    "createdAt": "2025-08-22T11:05:00.000Z"
+  },
+  {
+    "id": "1724001015",
+    "name": "Creative Writing Workshop",
+    "date": "2025-11-12",
+    "description": "Masterclass on storytelling, character development, and publishing with bestselling authors and literary agents.",
+    "category": "Literature",
+    "organizer": "Meta Academic Cell",
+    "venue": "Writers' Corner",
+    "createdAt": "2025-08-22T11:10:00.000Z"
+  },
+  {
+    "id": "1724001016",
+    "name": "Annual Sports Meet - Opening Ceremony",
+    "date": "2025-12-01",
+    "description": "Grand opening of the annual inter-department sports competition with march past, torch lighting, and sports demonstrations.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Main Sports Ground",
+    "createdAt": "2025-08-22T11:15:00.000Z"
+  },
+  {
+    "id": "1724001017",
+    "name": "Inter-Department Cricket Tournament",
+    "date": "2025-12-02",
+    "description": "T20 cricket championship between all academic departments with knockout format and live commentary.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Cricket Ground",
+    "createdAt": "2025-08-22T11:20:00.000Z"
+  },
+  {
+    "id": "1724001018",
+    "name": "Football League Championship",
+    "date": "2025-12-03",
+    "description": "7-a-side football tournament with teams representing different years and departments competing for the golden boot.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Football Field",
+    "createdAt": "2025-08-22T11:25:00.000Z"
+  },
+  {
+    "id": "1724001019",
+    "name": "Basketball Slam Dunk Contest",
+    "date": "2025-12-04",
+    "description": "Individual basketball skills competition including 3-point shootout, free throws, and slam dunk championships.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Basketball Courts",
+    "createdAt": "2025-08-22T11:30:00.000Z"
+  },
+  {
+    "id": "1724001020",
+    "name": "Badminton Mixed Doubles Championship",
+    "date": "2025-12-05",
+    "description": "Professional badminton tournament with men's, women's, and mixed doubles categories featuring local and guest players.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Indoor Sports Complex",
+    "createdAt": "2025-08-22T11:35:00.000Z"
+  },
+  {
+    "id": "1724001021",
+    "name": "Table Tennis Tournament",
+    "date": "2025-12-06",
+    "description": "Singles and doubles table tennis competition with both beginners and advanced categories for maximum participation.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Recreation Center",
+    "createdAt": "2025-08-22T11:40:00.000Z"
+  },
+  {
+    "id": "1724001022",
+    "name": "Athletics Championship",
+    "date": "2025-12-07",
+    "description": "Track and field events including 100m sprint, relay races, long jump, shot put, and marathon with state-level standards.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Athletic Track",
+    "createdAt": "2025-08-22T11:45:00.000Z"
+  },
+  {
+    "id": "1724001023",
+    "name": "Swimming Gala",
+    "date": "2025-12-08",
+    "description": "Aquatic sports competition featuring freestyle, backstroke, breaststroke, and relay swimming events for all skill levels.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Swimming Pool Complex",
+    "createdAt": "2025-08-22T11:50:00.000Z"
+  },
+  {
+    "id": "1724001024",
+    "name": "Volleyball Spike Championship",
+    "date": "2025-12-09",
+    "description": "Beach volleyball and indoor volleyball tournaments with co-ed teams representing different academic departments.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Volleyball Courts",
+    "createdAt": "2025-08-22T11:55:00.000Z"
+  },
+  {
+    "id": "1724001025",
+    "name": "Chess Grand Master Tournament",
+    "date": "2025-12-10",
+    "description": "Strategic chess championship with rapid and classical formats, featuring guest grandmaster exhibitions and simultaneous games.",
+    "category": "Sports",
+    "organizer": "Sports Committee",
+    "venue": "Chess Club Room",
+    "createdAt": "2025-08-22T12:00:00.000Z"
+  },
+  {
+    "id": "1724001026",
+    "name": "Zygon - DJ Night & Dance Battle",
+    "date": "2025-09-18",
+    "description": "Electronic music night with professional DJ sets followed by freestyle and group dance competitions with cash prizes.",
+    "category": "Cultural",
+    "organizer": "Cultural Committee",
+    "venue": "Central Plaza",
+    "createdAt": "2025-08-22T12:05:00.000Z"
+  },
+  {
+    "id": "1724001027",
+    "name": "Zygon - Drama Competition",
+    "date": "2025-09-19",
+    "description": "One-act play competition showcasing original scripts and adaptations with themes of social relevance and entertainment.",
+    "category": "Cultural",
+    "organizer": "Cultural Committee",
+    "venue": "Drama Theatre",
+    "createdAt": "2025-08-22T12:10:00.000Z"
+  },
+  {
+    "id": "1724001028",
+    "name": "Nirman - Web Development Bootcamp",
+    "date": "2025-10-08",
+    "description": "Intensive full-stack web development workshop covering React, Node.js, databases, and deployment strategies.",
+    "category": "Technical",
+    "organizer": "Silicon Student Council",
+    "venue": "Computer Center",
+    "createdAt": "2025-08-22T12:15:00.000Z"
+  },
+  {
+    "id": "1724001029",
+    "name": "Nirman - Cybersecurity Challenge",
+    "date": "2025-10-09",
+    "description": "Capture The Flag (CTF) competition focusing on ethical hacking, penetration testing, and cybersecurity awareness.",
+    "category": "Technical",
+    "organizer": "Silicon Student Council",
+    "venue": "Security Lab",
+    "createdAt": "2025-08-22T12:20:00.000Z"
+  },
+  {
+    "id": "1724001030",
+    "name": "Startup Pitch Competition",
+    "date": "2025-10-22",
+    "description": "Entrepreneurship competition where students pitch their startup ideas to investor panel with seed funding opportunities.",
+    "category": "Innovation",
+    "organizer": "Silicon Innovation Promotion Cell",
+    "venue": "Business Incubator",
+    "createdAt": "2025-08-22T12:25:00.000Z"
+  },
+  {
+    "id": "1724001031",
+    "name": "Meta - Literary Magazine Launch",
+    "date": "2025-11-13",
+    "description": "Release of the annual college literary magazine featuring student poems, short stories, essays, and artwork.",
+    "category": "Literature",
+    "organizer": "Meta Academic Cell",
+    "venue": "Publication House",
+    "createdAt": "2025-08-22T12:30:00.000Z"
+  },
+  {
+    "id": "1724001032",
+    "name": "Guest Lecture: Industry 4.0",
+    "date": "2025-10-25",
+    "description": "Expert talk on the fourth industrial revolution, IoT, AI integration in manufacturing, and future career opportunities.",
+    "category": "Academic",
+    "organizer": "Academic Committee",
+    "venue": "Main Auditorium",
+    "createdAt": "2025-08-22T12:35:00.000Z"
+  },
+  {
+    "id": "1724001033",
+    "name": "Career Fair 2025",
+    "date": "2025-11-20",
+    "description": "Annual placement drive with 50+ companies offering internships and full-time positions across various industries.",
+    "category": "Career",
+    "organizer": "Placement Cell",
+    "venue": "Exhibition Grounds",
+    "createdAt": "2025-08-22T12:40:00.000Z"
+  },
+  {
+    "id": "1724001034",
+    "name": "Environmental Awareness Marathon",
+    "date": "2025-10-30",
+    "description": "5K fun run promoting environmental consciousness with tree plantation drive and sustainability workshops.",
+    "category": "Social",
+    "organizer": "Green Club",
+    "venue": "Campus Perimeter",
+    "createdAt": "2025-08-22T12:45:00.000Z"
+  },
+  {
+    "id": "1724001035",
+    "name": "Annual College Fest Grand Finale",
+    "date": "2025-12-15",
+    "description": "Closing ceremony celebrating all achievements of the academic year with cultural performances, awards, and alumni meet.",
+    "category": "Cultural",
+    "organizer": "Student Council",
+    "venue": "Main Ground",
+    "createdAt": "2025-08-22T12:50:00.000Z"
+  }
+]
